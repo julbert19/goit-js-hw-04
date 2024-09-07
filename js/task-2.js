@@ -1,6 +1,6 @@
 function calcAverageCalories(days) {
      if (days.length === 0) {
-        return 0; // Повертає 0, якщо масив порожній
+        return 0; 
     }
     let totalCal = 0;
     const calories = "calories"
